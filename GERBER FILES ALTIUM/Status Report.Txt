@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SMD STATION.PrjPcb]
+   Generated File[PCB6.TXT]
+   Generated File[PCB6.LDP]
+   Generated File[PCB6.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:15:09 On 06/04/2016
