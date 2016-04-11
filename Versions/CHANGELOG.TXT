@@ -1,0 +1,7 @@
+11APR2016: The latest version is now IRON_18 and firmware version is 1.5
+
+1. Added iron holder with in-built "Iron in parking position" capability. The actual temperature automatically drops 
+    down to 175°C if disired temperature is > 175°C and the iron is in parking position.
+2. Added "unplugged iron" function: when device is unplugged, a message appears on the screen until it is plugged
+    back again.
+3. Added "click sound" when encoder is rotating.    
