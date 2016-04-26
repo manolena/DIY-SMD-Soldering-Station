@@ -3,6 +3,7 @@
 // (c) 2016 Manos Mar <manolena2001@gmail.com>, https://manolena.wordpress.com/2015/12/28/diy-smd-soldering-station-with-avr/
 // (c) 2014 Martin Kumm http://www.martin-kumm.de/wiki/doku.php?id=Projects:SMD_Solderstation/
 // (c) 2014 MatthiasW  https://debugginglab.wordpress.com/2014/10/30/soldering-station/
+// (c) 2016 FireDeveloper https://github.com/FireDeveloper : Special thanks to Stefanos for his RGB MultyBit Calculator
 //=======================================================================
 //    TFT FUNCTIONS
 //=======================================================================
