@@ -5,3 +5,5 @@
 2. Added "unplugged iron" function: when device is unplugged, a message appears on the screen until it is plugged
     back again.
 3. Added "click sound" when encoder is rotating.    
+4. Combatible TFT for this version is this: 
+   http://www.ebay.com/itm/240x320-3-3V-2-4-SPI-TFT-LCD-Touch-Panel-Serial-Port-Module-with-PBC-ILI9341-/171983887298?hash=item280b09dbc2:g:4LkAAOSwI-BWMzzZ
